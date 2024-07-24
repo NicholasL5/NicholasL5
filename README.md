@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Nicholas!
+
+#### GitHub Stats
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasL5&show_icons=true&theme=radical)
+
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasL5&layout=compact&theme=radical)
+
+#### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicholasL5&theme=radical)
+
 
 <!--
 **NicholasL5/NicholasL5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasL5&show_icons=true&theme=radical)
